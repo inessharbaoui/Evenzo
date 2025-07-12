@@ -111,35 +111,43 @@ Visit `http://localhost:8000` in your browser.
 * **Admins** can manage users, events, galleries, merchandise, and review AI feedback analytics
 
 ## Screenshots
-Login 
-<img width="362" height="182" alt="interface777" src="https://github.com/user-attachments/assets/bbd37b1c-b6da-4b0f-b375-cfaea8162d50" />
-<img width="1755" height="868" alt="login" src="https://github.com/user-attachments/assets/b164521c-0a7e-41ba-9952-1ee5113c7ff4" />
-
-Main page 
-<img width="1755" height="868" alt="main_page" src="https://github.com/user-attachments/assets/f367cc6c-8674-4737-b146-17acc8558733" />
-Profile  page
-<img width="1755" height="868" alt="login" src="https://github.com/user-attachments/assets/0cc45c05-b20b-4bfb-b20c-5c37e1031935" />
-
-Features
-<img width="1755" height="868" alt="highlights" src="https://github.com/user-attachments/assets/0e9dd743-b00e-42bd-b4ff-ab971737c733" />
-
-<img width="1755" height="868" alt="Events1" src="https://github.com/user-attachments/assets/5f32a289-25a5-4580-9b48-09b54a2853fd" />
-<img width="1755" height="868" alt="Online Events" src="https://github.com/user-attachments/assets/dc41b62e-6b74-4082-b15c-23392e54ffc0" />
-<img width="1755" height="868" alt="Details" src="https://github.com/user-attachments/assets/e6dea968-353c-445c-8ce3-cb76c2951ea2" />
-<img width="945" height="719" alt="gallery7" src="https://github.com/user-attachments/assets/e081f85b-22e7-4600-a874-9812a7cadb04" />
-<img width="945" height="471" alt="detailsgallery" src="https://github.com/user-attachments/assets/537f7e7c-421f-4b5b-abf9-b111f25b1a92" />
-<img width="1755" height="868" alt="merch" src="https://github.com/user-attachments/assets/c2336d1f-c3b5-4882-b6a4-99144ec00e3e" />
-<img width="1755" height="868" alt="purchase" src="https://github.com/user-attachments/assets/ac6783f6-b623-4eba-86b9-29ff5932d9af" />
-
-
-Dashboard : Event Planner
-<img width="1755" height="939" alt="dashboard" src="https://github.com/user-attachments/assets/84230445-3023-470f-931e-93565820abf4" />
-<img width="1755" height="868" alt="AI" src="https://github.com/user-attachments/assets/e988f86e-4ba8-450d-95d8-6a6126be2124" />
-<img width="1755" height="2118" alt="merchandise" src="https://github.com/user-attachments/assets/c04cc650-9b1c-41f3-af9d-c36bda73dd41" />
-<img width="1755" height="868" alt="events" src="https://github.com/user-attachments/assets/b3bba82a-5f94-4daf-a33e-d7bbe6d48a43" />
-<img width="945" height="464" alt="gallery777" src="https://github.com/user-attachments/assets/ab7c718a-0585-46e7-b861-aab9cafbcf1d" />
-<img width="945" height="468" alt="users" src="https://github.com/user-attachments/assets/c29f58a3-c983-4fd2-82b5-c9d5f36ee00f" />
-
+🖼️ User Interfaces
+🔐 Login Page
+<img src="https://github.com/user-attachments/assets/b164521c-0a7e-41ba-9952-1ee5113c7ff4" alt="login" width="700"/>
+🏠 Main Page
+<img src="https://github.com/user-attachments/assets/f367cc6c-8674-4737-b146-17acc8558733" alt="main_page" width="700"/>
+👤 Profile Page
+<img src="https://github.com/user-attachments/assets/0cc45c05-b20b-4bfb-b20c-5c37e1031935" alt="profile" width="700"/>
+⭐ User Features
+🔦 Highlights
+<img src="https://github.com/user-attachments/assets/0e9dd743-b00e-42bd-b4ff-ab971737c733" alt="highlights" width="700"/>
+📅 On-site Events
+<img src="https://github.com/user-attachments/assets/5f32a289-25a5-4580-9b48-09b54a2853fd" alt="Events1" width="700"/>
+💻 Online Events
+<img src="https://github.com/user-attachments/assets/dc41b62e-6b74-4082-b15c-23392e54ffc0" alt="Online Events" width="700"/>
+🔍 Event Details
+<img src="https://github.com/user-attachments/assets/e6dea968-353c-445c-8ce3-cb76c2951ea2" alt="Details" width="700"/>
+🖼️ Gallery
+<img src="https://github.com/user-attachments/assets/e081f85b-22e7-4600-a874-9812a7cadb04" alt="gallery7" width="500"/>
+🖼️ Gallery Details
+<img src="https://github.com/user-attachments/assets/537f7e7c-421f-4b5b-abf9-b111f25b1a92" alt="detailsgallery" width="500"/>
+🛍️ Merchandise Page
+<img src="https://github.com/user-attachments/assets/c2336d1f-c3b5-4882-b6a4-99144ec00e3e" alt="merch" width="700"/>
+🛒 Purchase Merchandise
+<img src="https://github.com/user-attachments/assets/ac6783f6-b623-4eba-86b9-29ff5932d9af" alt="purchase" width="700"/>
+🧑‍💼 Admin Dashboard Interfaces
+📊 Dashboard - Event Planner
+<img src="https://github.com/user-attachments/assets/84230445-3023-470f-931e-93565820abf4" alt="dashboard" width="700"/>
+🤖 AI Feedback Analysis
+<img src="https://github.com/user-attachments/assets/e988f86e-4ba8-450d-95d8-6a6126be2124" alt="AI" width="700"/>
+🛍️ Merchandise Management
+<img src="https://github.com/user-attachments/assets/c04cc650-9b1c-41f3-af9d-c36bda73dd41" alt="merchandise" width="700"/>
+📆 Event Management
+<img src="https://github.com/user-attachments/assets/b3bba82a-5f94-4daf-a33e-d7bbe6d48a43" alt="events" width="700"/>
+🖼️ Gallery Management
+<img src="https://github.com/user-attachments/assets/ab7c718a-0585-46e7-b861-aab9cafbcf1d" alt="gallery777" width="500"/>
+👥 User Management
+<img src="https://github.com/user-attachments/assets/c29f58a3-c983-4fd2-82b5-c9d5f36ee00f" alt="users" width="500"/>
 
 ## Roadmap
 
