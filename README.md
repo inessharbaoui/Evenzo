@@ -112,20 +112,8 @@ Visit `http://localhost:8000` in your browser.
 
 ## Screenshots
 
-
-
-
-
-
-
-🖼️ User Interfaces
-<img src="https://github.com/user-attachments/assets/b164521c-0a7e-41ba-9952-1ee5113c7ff4" alt="Login" width="700"/> <img src="https://github.com/user-attachments/assets/f367cc6c-8674-4737-b146-17acc8558733" alt="Main Page" width="700"/> <img src="https://github.com/user-attachments/assets/0cc45c05-b20b-4bfb-b20c-5c37e1031935" alt="Profile Page" width="700"/>
-⭐ Features
-<img src="https://github.com/user-attachments/assets/0e9dd743-b00e-42bd-b4ff-ab971737c733" alt="Highlights" width="700"/> <img src="https://github.com/user-attachments/assets/5f32a289-25a5-4580-9b48-09b54a2853fd" alt="Events1" width="700"/> <img src="https://github.com/user-attachments/assets/dc41b62e-6b74-4082-b15c-23392e54ffc0" alt="Online Events" width="700"/> <img src="https://github.com/user-attachments/assets/e6dea968-353c-445c-8ce3-cb76c2951ea2" alt="Details" width="700"/> <img src="https://github.com/user-attachments/assets/e081f85b-22e7-4600-a874-9812a7cadb04" alt="Gallery" width="500"/> <img src="https://github.com/user-attachments/assets/537f7e7c-421f-4b5b-abf9-b111f25b1a92" alt="Gallery Details" width="500"/> <img src="https://github.com/user-attachments/assets/c2336d1f-c3b5-4882-b6a4-99144ec00e3e" alt="Merch" width="700"/> <img src="https://github.com/user-attachments/assets/ac6783f6-b623-4eba-86b9-29ff5932d9af" alt="Purchase" width="700"/>
-🧑‍💼 Admin Dashboard Interfaces
-<img src="https://github.com/user-attachments/assets/84230445-3023-470f-931e-93565820abf4" alt="Dashboard" width="700"/> <img src="https://github.com/user-attachments/assets/e988f86e-4ba8-450d-95d8-6a6126be2124" alt="AI Feedback" width="700"/> <img src="https://github.com/user-attachments/assets/c04cc650-9b1c-41f3-af9d-c36bda73dd41" alt="Merchandise Management" width="700"/> <img src="https://github.com/user-attachments/assets/b3bba82a-5f94-4daf-a33e-d7bbe6d48a43" alt="Events Management" width="700"/> <img src="https://github.com/user-attachments/assets/ab7c718a-0585-46e7-b861-aab9cafbcf1d" alt="Gallery Management" width="500"/> <img src="https://github.com/user-attachments/assets/c29f58a3-c983-4fd2-82b5-c9d5f36ee00f" alt="Users" width="500"/>
-
-
+🖼️Interfaces
+<img src="https://github.com/user-attachments/assets/b164521c-0a7e-41ba-9952-1ee5113c7ff4" alt="Login" width="700"/> <img src="https://github.com/user-attachments/assets/f367cc6c-8674-4737-b146-17acc8558733" alt="Main Page" width="700"/> <img src="https://github.com/user-attachments/assets/0cc45c05-b20b-4bfb-b20c-5c37e1031935" alt="Profile Page" width="700"/> <img src="https://github.com/user-attachments/assets/0e9dd743-b00e-42bd-b4ff-ab971737c733" alt="Highlights" width="700"/> <img src="https://github.com/user-attachments/assets/5f32a289-25a5-4580-9b48-09b54a2853fd" alt="On-site Events" width="700"/> <img src="https://github.com/user-attachments/assets/dc41b62e-6b74-4082-b15c-23392e54ffc0" alt="Online Events" width="700"/> <img src="https://github.com/user-attachments/assets/e6dea968-353c-445c-8ce3-cb76c2951ea2" alt="Event Details" width="700"/> <img src="https://github.com/user-attachments/assets/e081f85b-22e7-4600-a874-9812a7cadb04" alt="Gallery" width="700"/> <img src="https://github.com/user-attachments/assets/537f7e7c-421f-4b5b-abf9-b111f25b1a92" alt="Gallery Details" width="700"/> <img src="https://github.com/user-attachments/assets/c2336d1f-c3b5-4882-b6a4-99144ec00e3e" alt="Merchandise" width="700"/> <img src="https://github.com/user-attachments/assets/ac6783f6-b623-4eba-86b9-29ff5932d9af" alt="Purchase" width="700"/> <img src="https://github.com/user-attachments/assets/84230445-3023-470f-931e-93565820abf4" alt="Dashboard" width="700"/> <img src="https://github.com/user-attachments/assets/e988f86e-4ba8-450d-95d8-6a6126be2124" alt="AI Feedback Analysis" width="700"/> <img src="https://github.com/user-attachments/assets/c04cc650-9b1c-41f3-af9d-c36bda73dd41" alt="Merchandise Management" width="700"/> <img src="https://github.com/user-attachments/assets/b3bba82a-5f94-4daf-a33e-d7bbe6d48a43" alt="Events Management" width="700"/> <img src="https://github.com/user-attachments/assets/ab7c718a-0585-46e7-b861-aab9cafbcf1d" alt="Gallery Management" width="700"/> <img src="https://github.com/user-attachments/assets/c29f58a3-c983-4fd2-82b5-c9d5f36ee00f" alt="Users Management" width="700"/>
 
 ## Roadmap
 
