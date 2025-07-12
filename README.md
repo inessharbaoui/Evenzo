@@ -114,6 +114,8 @@ Visit `http://localhost:8000` in your browser.
 
 
 🖥️ User Interfaces
+<img src="https://github.com/user-attachments/assets/f331fa3d-ca32-4de2-bd34-7415d964ae42" width="100%" />
+
 Login
 <img src="https://github.com/user-attachments/assets/b164521c-0a7e-41ba-9952-1ee5113c7ff4" width="100%" />
 Main Page
